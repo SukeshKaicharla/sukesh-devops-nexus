@@ -47,22 +47,22 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "sukesh.kaicharla@example.com",
-      link: "mailto:sukesh.kaicharla@example.com",
+      value: "sukeshkaicharla123@gmail.com",
+      link: "mailto:sukeshkaicharla123@gmail.com",
       color: "primary"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "linkedin.com/in/sukesh-kaicharla",
-      link: "https://linkedin.com/in/sukesh-kaicharla",
+      link: "www.linkedin.com/in/sukesh-kaicharla",
       color: "accent"
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/sukesh-kaicharla",
-      link: "https://github.com/sukesh-kaicharla",
+      value: "github.com/SukeshKaicharla",
+      link: "https://github.com/SukeshKaicharla",
       color: "primary-glow"
     }
   ];
